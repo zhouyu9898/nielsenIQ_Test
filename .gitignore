@@ -1,4 +1,4 @@
-yellow_tripdata_2022-06.parquet
+*.parquet
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
